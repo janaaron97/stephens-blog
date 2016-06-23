@@ -1,0 +1,13 @@
+@media (max-width: 768px) {
+
+	.nav li a{
+		margin-left: 15px;
+	}
+
+	.navbar-nav{
+	float: left !important;
+}
+	
+
+
+}

@@ -1,0 +1,19 @@
+/******************************************************************************************
+
+NAV
+
+******************************************************************************************/
+
+.navbar-default{
+	background: transparent !important;
+	border: none !important;
+}
+
+.navbar-nav{
+	float: right !important;
+	margin-right: 15px;
+}
+
+.navbar-brand{
+	color: #fff !important;
+}
